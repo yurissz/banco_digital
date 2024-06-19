@@ -32,3 +32,12 @@ Uma simulação de banco digital integrado com banco de dados. ( A simple Bank s
 * GET /transacao - Retorna todas as transações do usuári logado
 * PUT /transacao/:id - Atualiza a transação do usuário logado
 * PUT /usuario - Atualiza os dados do usuário logado
+
+## Como usar
+```
+git clone <urlDoProjeto>
+
+npm install
+
+npm run dev
+```
