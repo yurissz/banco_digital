@@ -14,7 +14,7 @@ Uma simulação de banco digital integrado com banco de dados. ( A simple Bank s
 * Gerenciamento de Transações
 * Fácil Acesso
 
-## Como usar
+## Sobre
 * Clone o repositório para sua máquina local.
 * No terminal, navegue até o diretório do projeto e execute npm install para instalar as dependências.
 * As depedências utilizadas nesse projeto foram PG, JsonWebToken, Bcrypt, Nodemon e Express.
