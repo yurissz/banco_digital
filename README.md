@@ -1,8 +1,8 @@
 # Simulador de Banco Digital
 Uma simulação de banco digital integrado com banco de dados. ( A simple Bank simulation with database integration.)
 
-## Funcionalidades do projeto
 
+## Projeto
 * Autenticação do Usuário utilizando jsonwebtoken (JWT)
 * Criptografia de Senha utilizando bcrypt
 * Geração automática de token
@@ -12,15 +12,7 @@ Uma simulação de banco digital integrado com banco de dados. ( A simple Bank s
 * Calculo de Saídas e Entradas de saldo da conta do Usuário
 * Gerenciamento de Conta
 * Gerenciamento de Transações
-* Fácil Acesso
 
-## Sobre
-* Clone o repositório para sua máquina local.
-* No terminal, navegue até o diretório do projeto e execute npm install para instalar as dependências.
-* As depedências utilizadas nesse projeto foram PG, JsonWebToken, Bcrypt, Nodemon e Express.
-* Na parte de configurações do PostgreSQL insira os seus respectivos dados.
-* Inicie o servidor usando npm run dev. O Nodemon garantirá que o servidor seja reiniciado automaticamente após cada alteração no código.
-* Utilize o Insomnia ou qualquer outra ferramenta de teste de API para enviar requisições para os endpoints fornecidos pela API.
 
 ## Endpoints
 * POST /transacao - Cadastra transação do Usuário Logado
