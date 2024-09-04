@@ -13,6 +13,10 @@ Uma simulação de banco digital integrado com banco de dados. ( A simple Bank s
 * Gerenciamento de Conta
 * Gerenciamento de Transações
 
+## Ferramentas e linguagens usadas
+* Javascript
+* Jsonwebtoken (JWT)
+* Bcrypt (Criptografia)
 
 ## Endpoints
 * POST /transacao - Cadastra transação do Usuário Logado
